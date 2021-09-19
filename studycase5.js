@@ -1,14 +1,14 @@
-// var menu = 
-// `Pilihlah salah satu menu di bawah ini
-//  1. Luas
-//  2. Keliling`;
+var menu = 
+`Pilihlah salah satu menu di bawah ini
+ 1. Luas
+ 2. Keliling`;
 
-// var bidang_datar = 
-// `Pilih salah satu bidang datar di bawah ini
-//  1. Segi Empat
-//  2. Segi Panjang
-//  3. Segi Tiga
-//  4. Lingkaran`;
+var bidang_datar = 
+`Pilih salah satu bidang datar di bawah ini
+ 1. Segi Empat
+ 2. Segi Panjang
+ 3. Segi Tiga
+ 4. Lingkaran`;
 
 const phi = 3.14;
 
